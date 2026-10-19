@@ -1,0 +1,10 @@
+[app]
+version = "1.0.0"
+
+[api]
+api_id = 123456
+api_hash = "api_hash"
+session_name = "userbyte"
+
+[bot]
+prefix = "!"
